@@ -1,0 +1,1 @@
+# Extract-Important-Heat-Feature-of-Thermal-Image-with-Image-Processing-Algorithm
